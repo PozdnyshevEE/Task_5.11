@@ -8,11 +8,11 @@ header {
     align-items: center;
     justify-content: center;
     height: 400px;
-    background: url('https://unsplash.com/photos/pTgj8jOydgI') bottom no-repeat;
+    background: url('https://images.unsplash.com/photo-1673463714424-6ddc26134dd5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDEwNXx4SHhZVE1ITGdPY3x8ZW58MHx8fHw%3D&auto=format&fit=crop&w=500&q=60') bottom no-repeat;
     background-size: cover;
 }
 h1 {
-    color: #c6be94;
+    color: #fff;
     font-size: 4rem;
     font-family: 'Times New Roman', Times, serif;
 }
