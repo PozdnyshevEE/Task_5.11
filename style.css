@@ -54,6 +54,15 @@ article {
     border-bottom: 1px solid rgb(128, 128, 128);
 }
 
+article:nth-child(even) {
+    background: green;
+}
+
+.pelement::before {
+    content: "New";
+    color:blue;
+}
+
 article a {
     color: rgb(33, 37, 41);
     text-decoration: none;
